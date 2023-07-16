@@ -1,0 +1,37 @@
+.categories{
+  
+    padding: 2%;
+    
+
+}
+.categories h3{
+    text-align: center;
+    color: red;
+}
+.categories span{
+    margin-top: 5%;
+    margin-left: 87%;
+    color: red;
+    font-size: larger;
+}
+ h3:hover{
+    text-align: center;
+    color: blue; 
+}
+span:hover{
+    text-align: center;
+    color: blue; 
+}
+
+
+
+ .card:hover{
+    background-color: hsla(232, 85%, 46%, 0.2)
+}
+
+.footerfixing{
+    padding-top: 260px;
+}
+
+
+
